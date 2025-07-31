@@ -1,5 +1,37 @@
 Console.WriteLine("guys lets cook");
 
 while (true) {
-  Console.Write("ok");
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+  while (true) {
+    Console.WriteLine("this program seems to work Good!");
+  }
+}
+
+  }
+}
+
+  }
+}
+
+  }
+}
+
+  }
+}
+
+  }
+}
+
+  }
 }
